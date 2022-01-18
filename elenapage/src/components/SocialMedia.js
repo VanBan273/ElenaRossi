@@ -21,7 +21,7 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="https://github.com/sunilyadav8"
+          href="https://github.com/VanBan273"
           target="_blank"
           rel="noreferrer"
           className="icon-colour  home-social-icons"
@@ -31,7 +31,7 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="https://www.linkedin.com/in/sunilkumaryadav84/"
+          href="https://www.linkedin.com/in/ivanoyola/"
           target="_blank"
           rel="noreferrer"
           className="icon-colour  home-social-icons"

@@ -19,6 +19,7 @@ function Footer() {
         </Col>
       </Row>
     </Container>
+    
   );
 }
 
